@@ -26,7 +26,7 @@ Este proyecto forma parte del Trabajo Integrador de la materia. Consiste en mont
 
 - **Hipervisor:** VMware Workstation 17 Player
 - **Sistema invitado:** Ubuntu Server 24.04 LTS
-- **Recursos de la VM:** 2 GB de RAM, 20 GB de disco
+- **Recursos de la VM:** 4 GB de RAM, 20 GB de disco
 - **Red:** modo Bridged (la VM obtiene IP propia en la red local)
 
 ## Uso
